@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736033231486",
+    "firebase_url": "https://findpeople-a2354.firebaseio.com",
+    "project_id": "findpeople-a2354",
+    "storage_bucket": "findpeople-a2354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736033231486:android:bc64844d6f4358afb6be2f",
+        "android_client_info": {
+          "package_name": "com.vogella.findpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736033231486-n5melfjl4l49hijns0avpivu74is4mso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Qw-VAXj7db-HkxN7ZeaXHzfRnVG6dq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736033231486-n5melfjl4l49hijns0avpivu74is4mso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
